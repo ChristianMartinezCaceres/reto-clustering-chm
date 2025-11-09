@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # resolucion-artefact-prueba-clustering
 
 ## Tools used in this project
@@ -190,3 +191,6 @@ pdoc src --http localhost:8080
 ```
 
 The documentation will be generated from your docstrings and type hints in your Python files. The static documentation will be saved in the `docs` directory, while the live server allows you to view the documentation with hot-reloading as you make changes.
+=======
+# reto-clustering-chm
+>>>>>>> 461fa2f110d9d5a75b73d7ec5a410ac0e628c249
